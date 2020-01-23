@@ -39,15 +39,15 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ## Lab Members
 
-### PhD Students
+#### PhD Students
 
-### Master Students
+#### Master Students
 
 ## Publications
 
-### Journal
+#### Journal
 
-### Conference
+#### Conference
 
 ## Teaching
 
