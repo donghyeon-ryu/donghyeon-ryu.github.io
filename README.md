@@ -1,4 +1,4 @@
-## Welcome to Lab for Smart Materials and Structures (LaSMaS)
+## LaSMaS: Lab for Smart Materials and Structures
 
 You can use the [editor on GitHub](https://github.com/donghyeon-ryu/donghyeon-ryu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
